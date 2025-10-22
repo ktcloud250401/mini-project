@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.a9682091.css",
-    "main.js": "/static/js/main.9c39883c.js",
-    "static/js/453.117b0875.chunk.js": "/static/js/453.117b0875.chunk.js",
-    "static/media/material-icons-latin-400-normal.woff": "/static/media/material-icons-latin-400-normal.ec276a3b4c1b27cdbab7.woff",
-    "static/media/material-icons-latin-400-normal.woff2": "/static/media/material-icons-latin-400-normal.0c35d18bf06992036b69.woff2",
-    "index.html": "/index.html",
-    "main.a9682091.css.map": "/static/css/main.a9682091.css.map",
-    "main.9c39883c.js.map": "/static/js/main.9c39883c.js.map",
-    "453.117b0875.chunk.js.map": "/static/js/453.117b0875.chunk.js.map"
+    "main.css": "/mini-project/wusu/static/css/main.1e47a7db.css",
+    "main.js": "/mini-project/wusu/static/js/main.297017d2.js",
+    "static/js/453.117b0875.chunk.js": "/mini-project/wusu/static/js/453.117b0875.chunk.js",
+    "static/media/material-icons-latin-400-normal.woff": "/mini-project/wusu/static/media/material-icons-latin-400-normal.ec276a3b4c1b27cdbab7.woff",
+    "static/media/material-icons-latin-400-normal.woff2": "/mini-project/wusu/static/media/material-icons-latin-400-normal.0c35d18bf06992036b69.woff2",
+    "index.html": "/mini-project/wusu/index.html",
+    "main.1e47a7db.css.map": "/mini-project/wusu/static/css/main.1e47a7db.css.map",
+    "main.297017d2.js.map": "/mini-project/wusu/static/js/main.297017d2.js.map",
+    "453.117b0875.chunk.js.map": "/mini-project/wusu/static/js/453.117b0875.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9682091.css",
-    "static/js/main.9c39883c.js"
+    "static/css/main.1e47a7db.css",
+    "static/js/main.297017d2.js"
   ]
 }
