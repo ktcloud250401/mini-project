@@ -2,6 +2,7 @@
   "name": "calculator-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/ktcloud250401/mini-project/sunghoon",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
