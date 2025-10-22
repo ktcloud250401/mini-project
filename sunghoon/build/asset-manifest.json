@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mini-project/sunghoon/static/css/main.0a52242c.css",
+    "main.js": "/mini-project/sunghoon/static/js/main.1330a852.js",
+    "static/js/453.dbabe145.chunk.js": "/mini-project/sunghoon/static/js/453.dbabe145.chunk.js",
+    "index.html": "/mini-project/sunghoon/index.html",
+    "main.0a52242c.css.map": "/mini-project/sunghoon/static/css/main.0a52242c.css.map",
+    "main.1330a852.js.map": "/mini-project/sunghoon/static/js/main.1330a852.js.map",
+    "453.dbabe145.chunk.js.map": "/mini-project/sunghoon/static/js/453.dbabe145.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a52242c.css",
+    "static/js/main.1330a852.js"
+  ]
+}
